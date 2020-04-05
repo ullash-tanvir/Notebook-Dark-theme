@@ -1,0 +1,12 @@
+from jupyterthemes import get_themes
+import jupyterthemes as jt
+from jupyterthemes.stylefx import set_nb_theme
+
+# uncomment and execute line to try a new theme
+set_nb_theme('onedork')
+# set_nb_theme('chesterish')
+# set_nb_theme('grade3')
+# set_nb_theme('oceans16')
+# set_nb_theme('solarizedl')
+# set_nb_theme('solarizedd')
+# set_nb_theme('monokai')
